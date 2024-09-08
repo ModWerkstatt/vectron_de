@@ -24,12 +24,12 @@ return {
 			fadeOutStartDist = 10000,
 		},
 		map_albedo = {
-			fileName = "models/vehicle/train/br247/br247_db_albedo.dds",
+			fileName = "models/vehicle/train/br247/br248_siemens_albedo.dds",
 			scaleDownAllowed = false,
 			type = "TWOD",
 		},
 		map_cblend_dirt_rust = {
-			fileName = "models/vehicle/train/br247/br247_cblend_dirt_rust.dds",
+			fileName = "models/vehicle/train/br247/br248_cblend_dirt_rust.dds",
 			type = "TWOD",
 		},
 		map_dirt = {
@@ -42,12 +42,12 @@ return {
 			type = "TWOD",
 		},
 		map_metal_gloss_ao = {
-			fileName = "models/vehicle/train/br247/br247_metal_gloss_ao.dds",
+			fileName = "models/vehicle/train/br247/br248_metal_gloss_ao.dds",
 			scaleDownAllowed = false,
 			type = "TWOD",
 		},
 		map_normal = {
-			fileName = "models/vehicle/train/br247/br247_normal.dds",
+			fileName = "models/vehicle/train/br247/br248_normal.dds",
 			redGreen = true,
 			type = "TWOD",
 		},
