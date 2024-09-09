@@ -705,15 +705,15 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 2020,
+			yearFrom = 2019,
 		},
 		cost = {
 			price = -1,
 			priceScale = 1,
 		},
 		description = {
-			name = _("br247_siemens_name"),
-			description = _("br247_desc"),
+			name = _("br248_siemens_name"),
+			description = _("br248_desc"),
 		},
 		emission = {
 			idleEmission = -1,
