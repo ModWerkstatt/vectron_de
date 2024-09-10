@@ -137,7 +137,34 @@ return {
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
---[[
+					{
+						animations = {
+							drive = {
+								params = {
+									id = "vehicle/train/br247/rotor.ani",
+								},
+								type = "FILE_REF",
+							},
+						},
+						materials = { "vehicle/train/br247/innen_fuehrerstand.mtl", },
+						mesh = "vehicle/train/br247/lufter_1_lod0.msh",
+						name = "rumpf",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.32939, 0, 3.70619, 1, },
+					},
+					{
+						animations = {
+							drive = {
+								params = {
+									id = "vehicle/train/br247/rotor.ani",
+								},
+								type = "FILE_REF",
+							},
+						},
+						materials = { "vehicle/train/br247/innen_fuehrerstand.mtl", },
+						mesh = "vehicle/train/br247/lufter_2_lod0.msh",
+						name = "rumpf",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -5.98188, -0.221514, 3.9039, 1, },
+					},
 					--- Innen ---
 					{
 						materials = { "vehicle/train/br247/innen_fuehrerstand.mtl", },
@@ -147,11 +174,10 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br247/innen_fuehrerstand.mtl", },
-						mesh = "vehicle/train/br247/inne_lod0.msh",
+						mesh = "vehicle/train/br247/kuhlraum_lod0.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
-]]
 				},
 				name = "RootNode",
 				transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, -0.02, 1, },
