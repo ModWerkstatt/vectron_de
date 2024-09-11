@@ -507,7 +507,7 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 2011,
+			yearFrom = 2017,
 		},
 		cost = {
 			price = -1,
@@ -556,7 +556,7 @@ return {
 		railVehicle = {
 			configs = {
 				{
-					axles = { "vehicle/train/br247/radsatz_lod3.msh", },
+					axles = { "vehicle/train/br247/radsatz_lod0.msh", },
 					backBackwardParts = { 18 },
 					backForwardParts = { 16 },
 					frontBackwardParts = { 17 },
@@ -574,7 +574,7 @@ return {
 					innerForwardParts = { },
 				},
 				{
-					axles = { "vehicle/train/br247/radsatz_lod3.msh", },
+					axles = { "vehicle/train/br247/radsatz_lod2.msh", },
 					backBackwardParts = { 17 },
 					backForwardParts = { 15 },
 					frontBackwardParts = { 16 },
