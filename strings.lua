@@ -33,8 +33,9 @@ return {
 
 
 
-		["br247_siemens_name"] = 	"BR 247 xxx Siemens",
-		["br247_db_name"] = 		"BR 247 906 DB Cargo (2011)",
+		["br247_siemens_name"] = 	"BR 247 901 Siemens (2014)",
+		["br247_db_name"] = 		"BR 247 906 DB Cargo (2017)",
+		["br247_rts_name"] = 		"BR 247 906 RTS (2019)",
         ["br247_menu"] = 			"Vectron DE BR 247",
 		["br247_desc"] = 			"Der Vectron DE xxxxxxxxxxxxxxx",
 		
