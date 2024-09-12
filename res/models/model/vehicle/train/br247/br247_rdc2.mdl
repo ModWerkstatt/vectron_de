@@ -141,7 +141,7 @@ return {
 					},
 					{
 						animations = {
-							drive = {
+							forever = {
 								params = {
 									id = "vehicle/train/br247/rotor.ani",
 								},
@@ -303,7 +303,7 @@ return {
 					},
 					{
 						animations = {
-							drive = {
+							forever = {
 								params = {
 									id = "vehicle/train/br247/rotor.ani",
 								},

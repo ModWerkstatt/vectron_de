@@ -42,6 +42,8 @@ return {
 		["br247_desc"] = 			"Der Vectron DE xxxxxxxxxxxxxxx",
 		
 		["br248_siemens_name"] = 	"BR 248 001 Siemens (2019)",
+		["br248_rp_name"] = 		"BR 248 001 RP (2021)",
+		["br248_north_name"] = 		"BR 248 014 Northrail (2021)",
         ["br248_menu"] = 			"Vectron BR 248 DM",
 		["br248_desc"] = 			"Der Vectron DM xxxxxxxxxxxxxxx",		
 		
