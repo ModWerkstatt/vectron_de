@@ -55,6 +55,7 @@ return {
 		["br248_rhc2_name"] = 		"BR 248 057 RheinCargo (2023)",
 		["br248_tri_name"] = 		"BR 248 018 Triangula (2022)",
 		["br248_stern_name"] = 		"BR 248 996 Stern & Hafferl (2022)",
+		["br248_press_name"] = 		"BR 248 026 Press (2022)",
         ["br248_menu"] = 			"Vectron BR 248 DM",
 		["br248_desc"] = 			"Der Vectron DM xxxxxxxxxxxxxxx",		
 		
@@ -66,7 +67,6 @@ return {
 		["br249_desc"] = 			"Der Vectron DML xxxxxxxxxxxxxx",
 
 
-		["br248_press_name"] = 		"BR 248 026 Press (2022)",
 		["br248_skl_name"] = 		"BR 248 023 SKL (2022)",
 		["br248_alpha_name"] = 		"BR 248 036 Alpha Trains (2022)",
 		["br248_cap2_name"] = 		"BR 248 037 Captrain (2024)",
