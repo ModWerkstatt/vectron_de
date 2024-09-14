@@ -592,7 +592,7 @@ return {
 				},
 			},
 			soundSet = { name = "vectron", },
-			topSpeed = 55.5556,
+			topSpeed = 44.4444,
 			weight = 83,
 		},
 		transportVehicle = {
@@ -626,7 +626,7 @@ return {
 			br247 = true,
 			br248 = false,
 			br249 = false,
-			diesel = false,
+			diesel = true,
 			elektrisch = false,
 		},
 	},
