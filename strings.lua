@@ -48,6 +48,11 @@ return {
 		["br248_north3_name"] = 	"BR 248 046 Northrail (2023)",
 		["br248_north4_name"] = 	"BR 248 075 Northrail (2023)",
 		["br248_cap_name"] = 		"BR 248 010 Captrain (2021)",
+		["br248_bm_name"] = 		"BR 248 011 BM Bahndienste (2021)",
+		["br248_locon_name"] = 		"BR 248 013 Locon (2021)",
+		["br248_locon2_name"] = 	"BR 248 047 Locon (2023)",
+		["br248_rhc_name"] = 		"BR 248 015 RheinCargo (2022)",
+		["br248_rhc2_name"] = 		"BR 248 057 RheinCargo (2023)",
         ["br248_menu"] = 			"Vectron BR 248 DM",
 		["br248_desc"] = 			"Der Vectron DM xxxxxxxxxxxxxxx",		
 		
@@ -59,9 +64,6 @@ return {
 		["br249_desc"] = 			"Der Vectron DML xxxxxxxxxxxxxx",
 
 
-		["br248_bm_name"] = 		"BR 248 011 BM Bahndienste (2021)",
-		["br248_locon_name"] = 		"BR 248 013 Locon (2021)",
-		["br248_rhc_name"] = 		"BR 248 015 RheinCargo (2021)",
 		["br248_tri_name"] = 		"BR 248 014 Triangula (2022)",
 		["br248_stern_name"] = 		"BR 248 996 Stern & Hafferl (2022)",
 		["br248_press_name"] = 		"BR 248 026 Press (2022)",
@@ -82,7 +84,6 @@ return {
 		["br248_hrs2_name"] = 		"BR 248 048 Hamburger Rail Service - weiß (2024)",
 		["br248_cd_name"] = 		"BR 248 082 CD Cargo (2024)",
 		["br248_rbp_name"] = 		"BR 248 051 RBP (2023)",
-		["br248_rhc2_name"] = 		"BR 248 057 RheinCargo (2023)",
 		["br248_hlg_name"] = 		"BR 248 052 HLG (2023)",
 		["br248_setg_name"] = 		"BR 248 xxx SETG (xxxx)",
 
