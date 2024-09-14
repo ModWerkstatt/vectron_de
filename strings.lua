@@ -57,6 +57,7 @@ return {
 		["br248_stern_name"] = 		"BR 248 996 Stern & Hafferl (2022)",
 		["br248_press_name"] = 		"BR 248 026 Press (2022)",
 		["br248_alpha_name"] = 		"BR 248 036 Alpha Trains (2022)",
+		["br248_arcelor_name"] = 	"BR 248 042 ArcelorMittal (2023)",
         ["br248_menu"] = 			"Vectron BR 248 DM",
 		["br248_desc"] = 			"Der Vectron DM xxxxxxxxxxxxxxx",		
 		
@@ -73,7 +74,6 @@ return {
 		["br248_egp_name"] = 		"BR 248 041 EGP (2022)",
 		["br248_egp2_name"] = 		"BR 248 042 EGP/Bahnoperator (2023)",
 		["br248_erd_name"] = 		"BR 248 025 Eiffage Infra-Rail (2023)",
-		["br248_arcelor_name"] = 	"BR 248 042 ArcelorMittal (2023)",
 		["br248_piko_name"] = 		"BR 248 066 WFL Piko 75 Jahre (2024)",
 		["br248_hrs_name"] = 		"BR 248 048 Hamburger Rail Service - blau (2023)",
 		["br248_erc_name"] = 		"BR 248 039 ERC (2023)",
