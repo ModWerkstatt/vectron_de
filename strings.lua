@@ -75,7 +75,6 @@ return {
 
 
 		["br248_erd_name"] = 		"BR 248 025 Eiffage Infra-Rail (2023)",
-		["br248_piko_name"] = 		"BR 248 066 WFL Piko 75 Jahre (2024)",
 		["br248_erc_name"] = 		"BR 248 039 ERC (2023)",
 		["br248_hrs_name"] = 		"BR 248 048 Hamburger Rail Service - blau (2023)",
 		["br248_hrs2_name"] = 		"BR 248 048 Hamburger Rail Service - weiß (2024)",
