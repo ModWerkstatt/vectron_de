@@ -63,6 +63,8 @@ return {
 		["br248_egp_name"] = 		"BR 248 042 EGP/Bahnoperator (2023)",
 		["br248_duisport_name"] = 	"BR 248 074 duisport rail (2023)",
 		["br248_cd_name"] = 		"BR 248 082 CD Cargo (2024)",
+		["br248_erc_name"] = 		"BR 248 039 ERC (2023)",
+		["br248_hrs_name"] = 		"BR 248 048 Hamburger Rail Service (2023)",
         ["br248_menu"] = 			"Vectron BR 248 DM",
 		["br248_desc"] = 			"Der Vectron DM xxxxxxxxxxxxxxx",		
 		
@@ -74,14 +76,9 @@ return {
 		["br249_desc"] = 			"Der Vectron DML xxxxxxxxxxxxxx",
 
 
-		["br248_erd_name"] = 		"BR 248 025 Eiffage Infra-Rail (2023)",
-		["br248_erc_name"] = 		"BR 248 039 ERC (2023)",
-		["br248_hrs_name"] = 		"BR 248 048 Hamburger Rail Service - blau (2023)",
-		["br248_hrs2_name"] = 		"BR 248 048 Hamburger Rail Service - weiß (2024)",
 		["br248_leonhard_name"] = 	"BR 248 040 Leonhard Weiss (2023)",
-		["br248_bm2_name"] = 		"BR 248 070 BM Bahndienste (2023)",
-		["br248_rbp_name"] = 		"BR 248 051 RBP (2023)",
 		["br248_hlg_name"] = 		"BR 248 052 HLG (2023)",
+		["br248_bm2_name"] = 		"BR 248 070 BM Bahndienste (2023)",
 		["br248_db_name"] = 		"BR 248 501 DB Fernverkehr - Aktuell Fiktiv (2025)",
 		["br248_setg_name"] = 		"BR 248 xxx SETG (Daniel) (xxxx)",
 
