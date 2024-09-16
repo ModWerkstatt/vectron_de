@@ -611,7 +611,7 @@ return {
 		},
 		vectron_de = {
 			fake = false,
-			br247 = true,
+			br247 = false,
 			br248 = true,
 			br249 = false,
 			diesel = false,
