@@ -67,6 +67,7 @@ return {
 		["br248_hrs_name"] = 		"BR 248 048 Hamburger Rail Service (2023)",
 		["br248_leonhard_name"] = 	"BR 248 040 Leonhard Weiss (2023)",
 		["br248_db_name"] = 		"BR 248 500 DB Fernverkehr - Aktuell Fiktiv (2025)",
+		["br248_mkb_name"] = 		"BR 248 005 Minden Kreisbahn (2021)",
         ["br248_menu"] = 			"Vectron BR 248 DM",
 		["br248_desc"] = 			"Der Vectron DM xxxxxxxxxxxxxxx",		
 		

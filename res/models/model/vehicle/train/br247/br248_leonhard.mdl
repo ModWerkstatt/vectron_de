@@ -16,19 +16,19 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br247/br248_leaonhard.mtl", },
+						materials = { "vehicle/train/br247/br248_leonhard.mtl", },
 						mesh = "vehicle/train/br247/rumpf_248_lod0.msh",
 						name = "Kasten_eckig",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br247/br248_leaonhard.mtl", },
+						materials = { "vehicle/train/br247/br248_leonhard.mtl", },
 						mesh = "vehicle/train/br247/tritt_vectron_lod0.msh",
 						name = "Kasten_eckig",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br247/br248_leaonhard.mtl", },
+						materials = { "vehicle/train/br247/br248_leonhard.mtl", },
 						mesh = "vehicle/train/br247/front_lod0.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -182,19 +182,19 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br247/br248_leaonhard.mtl", },
+						materials = { "vehicle/train/br247/br248_leonhard.mtl", },
 						mesh = "vehicle/train/br247/rumpf_248_lod1.msh",
 						name = "Kasten_eckig",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br247/br248_leaonhard.mtl", },
+						materials = { "vehicle/train/br247/br248_leonhard.mtl", },
 						mesh = "vehicle/train/br247/tritt_vectron_lod1.msh",
 						name = "Kasten_eckig",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br247/br248_leaonhard.mtl", },
+						materials = { "vehicle/train/br247/br248_leonhard.mtl", },
 						mesh = "vehicle/train/br247/front_lod1.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -348,19 +348,19 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br247/br248_leaonhard.mtl", },
+						materials = { "vehicle/train/br247/br248_leonhard.mtl", },
 						mesh = "vehicle/train/br247/rumpf_248_lod2.msh",
 						name = "Kasten_eckig",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br247/br248_leaonhard.mtl", },
+						materials = { "vehicle/train/br247/br248_leonhard.mtl", },
 						mesh = "vehicle/train/br247/tritt_vectron_lod2.msh",
 						name = "Kasten_eckig",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br247/br248_leaonhard.mtl", },
+						materials = { "vehicle/train/br247/br248_leonhard.mtl", },
 						mesh = "vehicle/train/br247/front_lod2.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -482,7 +482,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br247/br248_leaonhard.mtl", },
+						materials = { "vehicle/train/br247/br248_leonhard.mtl", },
 						mesh = "vehicle/train/br247/rumpf_248_lod3.msh",
 						name = "Kasten_eckig",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -505,7 +505,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br247/br248_leaonhard.mtl", },
+						materials = { "vehicle/train/br247/br248_leonhard.mtl", },
 						mesh = "vehicle/train/br247/rumpf_lod4.msh",
 						name = "Kasten_eckig",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -529,7 +529,7 @@ return {
 			priceScale = 1,
 		},
 		description = {
-			name = _("br248_leaonhard_name"),
+			name = _("br248_leonhard_name"),
 			description = _("br248_desc"),
 		},
 		emission = {
