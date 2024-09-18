@@ -132,6 +132,14 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
+						animations = {
+							drive = {
+								params = {
+									id = "vehicle/train/br247/rotor.ani",
+								},
+								type = "FILE_REF",
+							},
+						},
 						materials = { "vehicle/train/br247/innen_fuehrerstand.mtl", },
 						mesh = "vehicle/train/br247/lufter_1_lod0.msh",
 						name = "rumpf",
@@ -298,6 +306,14 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
+						animations = {
+							drive = {
+								params = {
+									id = "vehicle/train/br247/rotor.ani",
+								},
+								type = "FILE_REF",
+							},
+						},
 						materials = { "vehicle/train/br247/innen_fuehrerstand.mtl", },
 						mesh = "vehicle/train/br247/lufter_1_lod1.msh",
 						name = "rumpf",
