@@ -180,13 +180,13 @@ return {
 					},
 					{
 						materials = { "vehicle/train/rk900/rk900.mtl", },
-						mesh = "vehicle/train/rk900/rk900_up_lod0.msh",
+						mesh = "vehicle/train/rk900/rk900_down_lod0.msh",
 						name = "",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 9.9, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/rk900/rk900.mtl", },
-						mesh = "vehicle/train/rk900/rk900_up_lod0.msh",
+						mesh = "vehicle/train/rk900/rk900_down_lod0.msh",
 						name = "",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, -9.9, 0, 0, 1, },
 					},
@@ -360,13 +360,13 @@ return {
 					},
 					{
 						materials = { "vehicle/train/rk900/rk900.mtl", },
-						mesh = "vehicle/train/rk900/rk900_up_lod1.msh",
+						mesh = "vehicle/train/rk900/rk900_down_lod1.msh",
 						name = "",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 9.9, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/rk900/rk900.mtl", },
-						mesh = "vehicle/train/rk900/rk900_up_lod1.msh",
+						mesh = "vehicle/train/rk900/rk900_down_lod1.msh",
 						name = "",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, -9.9, 0, 0, 1, },
 					},
