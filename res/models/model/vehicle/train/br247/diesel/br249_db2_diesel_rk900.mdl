@@ -1,8 +1,8 @@
 function data()
 return {
 	boundingInfo = {
-		bbMax = { 10.25, 1.555, 5.9, },
-		bbMin = { -10.25, -1.555, 0, },
+		bbMax = { 10.5, 1.555, 5.9, },
+		bbMin = { -10.5, -1.555, 0, },
 	},
 	collider = {
 		params = {
@@ -557,7 +557,7 @@ return {
 			priceScale = 1,
 		},
 		description = {
-			name = _("br249_db2_name"),
+			name = _("br249_db2_rk900_name"),
 			description = _("br249_desc"),
 		},
 		emission = {

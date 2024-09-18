@@ -74,6 +74,8 @@ return {
 		["br249_db_name"] = 		"BR 249 004 DB Cargo mit RK 900 (2022)",
 		["br249_db2_name"] = 		"BR 249 003 DB Cargo - Das ist Grün mit RK 900 (2022)",
 		["br249_db3_name"] = 		"BR 249 012 DB Cargo (2024)",
+		["br249_db_rk900_name"] = 	"BR 249 004 DB Cargo mit RK 900 unten (2022)",
+		["br249_db2_rk900_name"] = 	"BR 249 003 DB Cargo - Das ist Grün mit RK 900 unten (2022)",
         ["br249_menu"] = 			"Vectron BR 249 DML",
 		["br249_desc"] = 			"Der Vectron DML xxxxxxxxxxxxxx",
 
