@@ -16,13 +16,13 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br247/br249_db.mtl", },
+						materials = { "vehicle/train/br247/br249_db2.mtl", },
 						mesh = "vehicle/train/br247/rumpf_249_lod0.msh",
 						name = "Kasten_eckig",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br247/br249_db.mtl", },
+						materials = { "vehicle/train/br247/br249_db2.mtl", },
 						mesh = "vehicle/train/br247/front_lod0.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -121,7 +121,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br247/unterbau_br249.mtl", },
-						mesh = "vehicle/train/br247/panto_oben_de_lod0.msh",
+						mesh = "vehicle/train/br247/panto_unten_de_lod0.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -194,13 +194,13 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br247/br249_db.mtl", },
+						materials = { "vehicle/train/br247/br249_db2.mtl", },
 						mesh = "vehicle/train/br247/rumpf_249_lod1.msh",
 						name = "Kasten_eckig",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br247/br249_db.mtl", },
+						materials = { "vehicle/train/br247/br249_db2.mtl", },
 						mesh = "vehicle/train/br247/front_lod1.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -299,7 +299,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br247/unterbau_br249.mtl", },
-						mesh = "vehicle/train/br247/panto_oben_de_lod1.msh",
+						mesh = "vehicle/train/br247/panto_unten_de_lod1.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -366,13 +366,13 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br247/br249_db.mtl", },
+						materials = { "vehicle/train/br247/br249_db2.mtl", },
 						mesh = "vehicle/train/br247/rumpf_248_lod2.msh",
 						name = "Kasten_eckig",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br247/br249_db.mtl", },
+						materials = { "vehicle/train/br247/br249_db2.mtl", },
 						mesh = "vehicle/train/br247/front_lod2.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -465,7 +465,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br247/unterbau_br249.mtl", },
-						mesh = "vehicle/train/br247/panto_oben_de_lod2.msh",
+						mesh = "vehicle/train/br247/panto_unten_de_lod2.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -494,7 +494,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br247/br249_db.mtl", },
+						materials = { "vehicle/train/br247/br249_db2.mtl", },
 						mesh = "vehicle/train/br247/rumpf_248_lod3.msh",
 						name = "Kasten_eckig",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -517,7 +517,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br247/br249_db.mtl", },
+						materials = { "vehicle/train/br247/br249_db2.mtl", },
 						mesh = "vehicle/train/br247/rumpf_lod4.msh",
 						name = "Kasten_eckig",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -533,7 +533,7 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 2024,
+			yearFrom = 2022,
 			yearTo = 0000,
 		},
 		cost = {
@@ -541,7 +541,7 @@ return {
 			priceScale = 1,
 		},
 		description = {
-			name = _("br249_db_name"),
+			name = _("br249_db2_name"),
 			description = _("br249_desc"),
 		},
 		emission = {
@@ -586,9 +586,9 @@ return {
 			},
 			engines = {
 				{
-					power = 2210,
+					power = 950,
 					tractiveEffort = 300,
-					type = "ELECTRIC",
+					type = "DIESEL",
 				},
 			},
 			soundSet = { name = "vectron", },
@@ -626,8 +626,8 @@ return {
 			br247 = false,
 			br248 = false,
 			br249 = true,
-			diesel = false,
-			elektrisch = true,
+			diesel = true,
+			elektrisch = false,
 		},
 	},
 	version = 1,

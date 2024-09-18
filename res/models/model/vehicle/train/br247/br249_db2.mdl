@@ -165,6 +165,12 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
+						materials = { "vehicle/train/br247/br249_db3.mtl", },
+						mesh = "vehicle/train/br247/turgriff_bl3_lod0.msh",
+						name = "Kasten_eckig",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
 						materials = { "vehicle/train/rk900/rk900.mtl", },
 						mesh = "vehicle/train/rk900/rk900_up_lod0.msh",
 						name = "",
