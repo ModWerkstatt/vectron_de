@@ -189,7 +189,7 @@ return {
 				children = {
 					{
 						materials = { "vehicle/train/br247/br249_db.mtl", },
-						mesh = "vehicle/train/br247/rumpf_248_lod1.msh",
+						mesh = "vehicle/train/br247/rumpf_249_lod1.msh",
 						name = "Kasten_eckig",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
