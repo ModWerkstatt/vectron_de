@@ -583,7 +583,7 @@ return {
 					type = "DIESEL",
 				},
 			},
-			soundSet = { name = "vectron", },
+			soundSet = { name = "train_diesel", },
 			topSpeed = 33.3333,
 			weight = 84,
 		},
