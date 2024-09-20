@@ -94,14 +94,9 @@ return {
 		["br247_rdc2_name"] = 		"BR 247 908 RDC/Siemens Debbie (2017)",
 		["br247_rts_name"] = 		"BR 247 906 RTS (2019)",
         ["br247_menu"] = 			"Vectron BR 247 DE",
-<<<<<<< Updated upstream
+        ["br247_menu_fake"] = 		"Vectron BR 247 DE - Fake",
 		["br247_desc"] = 			"Die dieselelektrische Version des Vectron wird abgekürzt mit DE und trägt in Deutschland die Baureihenbezeichnung 247.",
 
-=======
-        ["br247_menu_fake"] = 		"Vectron BR 247 DE - Fake",
-		["br247_desc"] = 			"Der Vectron DE xxxxxxxxxxxxxxx",
-		
->>>>>>> Stashed changes
 		["br248_siemens_name"] = 	"BR 248 001 Siemens (2019)",
 		["br248_rp_name"] = 		"BR 248 001 RP (2021)",
 		["br248_north_name"] = 		"BR 248 014 Northrail (2021)",
@@ -130,26 +125,17 @@ return {
 		["br248_db_name"] = 		"BR 248 500 DB Fernverkehr - aktuell fiktiv (2025)",
 		["br248_mkb_name"] = 		"BR 248 005 Mindener Kreisbahnen (2021)",
         ["br248_menu"] = 			"Vectron BR 248 DM",
-<<<<<<< Updated upstream
+        ["br248_menu_fake"] = 		"Vectron BR 248 DM - Fake",
 		["br248_desc"] = 			"Als Dual Mode, oder kurz DM, wird die Zweikraftvariante des Vectron bezeichnet. In Deutschland verkehrt sie unter der Baureihenbezeichnung 248.",
 
-=======
-        ["br248_menu_fake"] = 		"Vectron BR 248 DM  - Fake",
-		["br248_desc"] = 			"Der Vectron DM xxxxxxxxxxxxxxx",		
-		
->>>>>>> Stashed changes
 		["br249_db_name"] = 		"BR 249 004 DB Cargo mit RK 900 (2022)",
 		["br249_db2_name"] = 		"BR 249 003 DB Cargo - Das ist Grün mit RK 900 (2022)",
 		["br249_db3_name"] = 		"BR 249 012 DB Cargo (2024)",
 		["br249_db_rk900_name"] = 	"BR 249 004 DB Cargo mit RK 900 unten (2022)",
 		["br249_db2_rk900_name"] = 	"BR 249 003 DB Cargo - Das ist Grün mit RK 900 unten (2022)",
         ["br249_menu"] = 			"Vectron BR 249 DML",
-<<<<<<< Updated upstream
+        ["br249_menu_fake"] = 		"Vectron BR 249 DML - Fake",
 		["br249_desc"] = 			"Unter der Abkürzung DML versteht man die Dual Mode light, eine leichte Zweikraftvariante des Vectron. Sie ist vor allem für leichte Güterzüge und den Rangierbetrieb gedacht. In Deutschland trägt sie die Baureihenbezeichnung 249.",
-=======
-        ["br249_menu_fake"] = 		"Vectron BR 249 DML  - Fake",
-		["br249_desc"] = 			"Der Vectron DML xxxxxxxxxxxxxx",
->>>>>>> Stashed changes
 
         -- Fake
         ["Fake_br247"] = "Fake-Loks aktivieren?",
