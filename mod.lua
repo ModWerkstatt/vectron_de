@@ -119,7 +119,7 @@ return {
 			local params = modParams[getCurrentModId()]					
 			if params["br247_fake"] == 0 then				
 				--addFileFilter("model/transportVehicle", fakeFilter)	
-				addModifier("loadModel", vorspannFilter)
+				addModifier("loadModel", fakeFilter)
 			end
 			if params["br247"] == 0 then				
 				addModifier("loadModel", br247Filter)
