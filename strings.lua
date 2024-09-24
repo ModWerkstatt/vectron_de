@@ -28,6 +28,8 @@ return {
 		["br247_desc"] = 			"The diesel-electric version of the Vectron is abbreviated to DE and in Germany bears the series designation 247.",
 
 		["br248_siemens_name"] = 	"Class 248 001 Siemens (2019)",
+		["br248_siemens2_name"] = 	"Class 248 500 Siemens (2023)",
+		["br248_siemens3_name"] = 	"Class 248 500 Siemens - Innotrans 2024 (2024)",
 		["br248_rp_name"] = 		"Class 248 001 RP (2021)",
 		["br248_north_name"] = 		"Class 248 014 Northrail (2021)",
 		["br248_north2_name"] = 	"Class 248 021 Northrail (2022)",
@@ -98,6 +100,8 @@ return {
 		["br247_desc"] = 			"Die dieselelektrische Version des Vectron wird abgekürzt mit DE und trägt in Deutschland die Baureihenbezeichnung 247.",
 
 		["br248_siemens_name"] = 	"BR 248 001 Siemens (2019)",
+		["br248_siemens2_name"] = 	"BR 248 500 Siemens (2023)",
+		["br248_siemens3_name"] = 	"BR 248 500 Siemens - Innotrans 2024 (2024)",
 		["br248_rp_name"] = 		"BR 248 001 RP (2021)",
 		["br248_north_name"] = 		"BR 248 014 Northrail (2021)",
 		["br248_north2_name"] = 	"BR 248 021 Northrail (2022)",
