@@ -46,7 +46,7 @@ return {
 		["br248_stern_name"] = 		"Class 248 996 Stern & Hafferl (2022)",
 		["br248_press_name"] = 		"Class 248 026 Press (2022)",
 		["br248_alpha_name"] = 		"Class 248 036 Alpha Trains (2022)",
-		["br248_arcelor_name"] = 	"Class 248 042 ArcelorMittal (2023)",
+		["br248_arcelor_name"] = 	"Class 248 043 ArcelorMittal (2023)",
 		["br248_skl_name"] = 		"Class 248 023 SKL (2023)",
 		["br248_egp_name"] = 		"Class 248 042 EGP/Bahnoperator (2023)",
 		["br248_duisport_name"] = 	"Class 248 074 duisport rail (2023)",
